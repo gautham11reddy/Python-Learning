@@ -1,0 +1,32 @@
+1)what is a string
+Ans: string is a series of charecters 
+2)why is the use of f string
+Ans: it will contain the variable referencing points to the variable created and we can also type the custom input as well
+3)what is a list
+Ans: List is a collection of items in a particular order.
+4)what is the syntax of a for loop
+Ans: for tempvar in mainvar
+		print(tempvar)
+5)what is the diff btw sort and sorted
+And:Sorted is used sort the order temporarily while printing and sort is to change the order permanently 
+4)what is a tuple datatype
+Ans: An Imutable list is called as tuple 
+5)explain the concept  of conditional statements
+conditional statements is used to check some criteria and if it is satifying then do some condition if not satifying then do other condition 
+6)name=' shafi m'
+what is the string method to use to make it a proper format
+Ans: name.Title()
+7)students=['a','b','c','d'] what is the method to get the total count
+Ans: len(Students)
+8)student 'e' I want to add what is the method I need to use in the list
+Ans: students.append('e')
+8)student 'g;' want ot add this g in the 2nd index position above
+Ans:Students.insert(2,'g')
+9)append vs insert?
+Append will add the item to last index position and insert will add the items in the specified position.
+10)diff between list and tuple
+list is mutable and tuple is immutable
+syn of lis is [] and tuple is ()
+11)explain what is dict
+dict is a combination of key value pairs and it is mutable datatype.
+
